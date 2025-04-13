@@ -1,0 +1,11 @@
+name,definition,created,updated,is_active,is_processing,is_starred
+[Engaged non-openers] The Perfect Shoes for Your Valentine's Look! Romantic or Casual?,,2025-02-12T12:30:46+00:00,2025-02-12T12:31:29+00:00,True,False,False
+Viewed Ανδρικά Κλασσικά,,2025-01-15T11:28:08+00:00,2025-01-15T11:28:51+00:00,True,False,False
+Exclude Subscribers that placed order the last 30 days,,2024-01-12T13:53:21+00:00,2024-01-12T13:54:01+00:00,True,False,False
+[Engaged non-openers] Extra -15% Off in our LMTD Collection,,2025-02-17T08:00:38+00:00,2025-02-17T08:01:23+00:00,True,False,False
+Suppress (bounced at least 3),,2024-09-23T04:49:29+00:00,2025-01-15T10:45:26+00:00,True,False,False
+Newsletter Campaigns (Subscribed),,2024-01-03T07:00:02+00:00,2024-05-29T16:19:25+00:00,True,False,False
+Engaged (30 Days),,2023-12-19T05:43:03+00:00,2024-11-22T05:31:04+00:00,True,False,False
+Exclude Frequency 2-3/month,,2024-01-12T13:13:35+00:00,2024-01-12T13:13:58+00:00,True,False,False
+[KLTEST] Unengaged Profile in Newsletter Campaigns (Subscribed),,2025-01-13T01:12:31+00:00,2025-01-13T01:13:23+00:00,True,False,False
+Suppress (received at least 20),,2025-01-15T10:46:54+00:00,2025-01-15T10:47:28+00:00,True,False,False
